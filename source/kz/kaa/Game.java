@@ -130,3 +130,5 @@ class DynamicFigure {
 class Foundation {
 	
 }
+
+// Test comment
